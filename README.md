@@ -3,8 +3,6 @@ I'm Nicolas Fainstein, a Frontend Developer with experience in React, Redux, Typ
 
 🔭 I’m currently working on improving my skills in React and diving deeper into full stack development.
 
-🌱 I’m currently learning Next.js and web3 technologies.
-
 💬 Ask me about my experience in building complex web applications, from design to implementation and deployment.
 
 📫 You can reach me on [LinkedIn](https://linkedin.com/in/fainstein).
