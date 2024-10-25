@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm Nicolas Fainstein, a Frontend Developer with experience in React, Redux, TypeScript, as well as some backend development with Node.js, Express, MongoDB, and SQL.
 
-🔭 I’m currently working on improving my skills in React and diving deeper into full stack development.
-
 💬 Ask me about my experience in building complex web applications, from design to implementation and deployment.
 
 📫 You can reach me on [LinkedIn](https://linkedin.com/in/fainstein).
